@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I am Somak Poddar</h1>
 <h3 align="center">An enthusiastic Computer Science Student at Government College of Engineering and Leather Technology, Kolkata</h3>
 <!--
@@ -20,8 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... React, Next Js , SaSS
 - 💬 Ask me about ... React, Javascript, Firebase, Mongodb
 - 📫 How to reach me:
-  * [![Gmail Badge](https://img.shields.io/badge/-somakpoddar@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)]
-  * [![Linkedin Badge](https://img.shields.io/badge/-somakpoddar-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:somakpoddar@gmail)] 
+     * [![Gmail Badge](https://img.shields.io/badge/-somakpoddar@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)]
+     * [![Linkedin Badge](https://img.shields.io/badge/-somakpoddar-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:somakpoddar@gmail)] 
     (https://www.linkedin.com/in/somak-poddar-4961281b7/)
 
 
