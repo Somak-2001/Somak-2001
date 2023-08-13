@@ -1,37 +1,50 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I am Somak Poddar</h1>
-<h3 align="center">An enthusiastic Computer Science Student at Government College of Engineering and Leather Technology, Kolkata</h3>
+# Hi there, I'm Somak Poddar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... React, Next Js , SaSS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... React, Javascript, Firebase, Mongodb
-- 📫 How to reach me: ...
-     * [![Gmail Badge](https://img.shields.io/badge/-somakpoddar@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)]
-     * [![Linkedin Badge](https://img.shields.io/badge/-somakpoddar-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:somakpoddar@gmail)] 
-    (https://www.linkedin.com/in/somak-poddar-4961281b7/)
+I'm a passionate web developer. I love reading books, and I'm constantly exploring new Javascript topics to expand my knowledge. 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I love exploring React, Next, JWT Tokens,Web Authentication, Sessions
+<!--
+## 🔭 What I'm Currently Working On
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+I'm currently working on [Current Project/Goal], where I'm [Brief Description of Your Work]. I'm excited to [Expected Outcome/Impact]!
+
+-->
+
+## 🌱 What I'm Learning
+
+I'm always eager to learn and improve my skills. Currently, I'm diving deep into Web development. I'm enjoying React Js (Single Page Application) and can't wait to apply it to future projects.
+
+## 💬 Ask Me About
+
+If you have any questions or want to discuss React, Next Js, feel free to reach out. I'm always up for a good conversation and knowledge sharing!
+
+## 📫 How to Reach Me
+
+You can connect with me through [Your Preferred Social Media/Contact Links]. I'm always open to connecting with fellow [Profession/Interest] enthusiasts.
+
+## 😄 Fun Facts
+<!--
+- I'm a [Random Fact about You].
+- I've traveled to [Number] countries and counting!
+- [Interesting Hobby/Fact].
+-->
+- I love exploring new things about React Js
+- Playing Guitar
+<!--
+## 🚀 My Goals
+
+I'm on a journey to [Your Aspirations/Goals], and I'm excited to see where it takes me. I believe in [Your Beliefs/Philosophy] and am dedicated to [How You Contribute/Make a Difference].
+-->
+
+<!--
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+-->
+
+<!--
+
+## 🌐 Check Out My Website
+
+You can find more about me and my work on [Your Website Link].
+-->
+
