@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... React, Next Js , SaSS
 - 💬 Ask me about ... React, Javascript, Firebase, Mongodb
-- 📫 How to reach me: ...
- * [![Gmail Badge](https://img.shields.io/badge/-somakpoddar@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:prosenjitswarnakar2002@gmail.com)
-  * [![Linkedin Badge](https://img.shields.io/badge/-somakpoddar-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:somakpoddar@gmail)](https://www.linkedin.com/in/somak-poddar-4961281b7/)
+- 📫 How to reach me:
+  * [![Gmail Badge](https://img.shields.io/badge/-somakpoddar@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)]
+  * [![Linkedin Badge](https://img.shields.io/badge/-somakpoddar-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:somakpoddar@gmail)] 
+    (https://www.linkedin.com/in/somak-poddar-4961281b7/)
 
 
 - ⚡ Fun fact: ... I love exploring React, Next, JWT Tokens,Web Authentication, Sessions
