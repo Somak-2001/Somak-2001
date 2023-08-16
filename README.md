@@ -35,11 +35,15 @@ You can connect with me through [Your Preferred Social Media/Contact Links]. I'm
 I'm on a journey to [Your Aspirations/Goals], and I'm excited to see where it takes me. I believe in [Your Beliefs/Philosophy] and am dedicated to [How You Contribute/Make a Difference].
 -->
 
-<!--
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
--->
+
+<div>
+  <a href-"https://beacons.ai/rafaballering> />
+  <img height="180em" />
+  <img height-"180em" />
+</div>
 
 <!--
 
