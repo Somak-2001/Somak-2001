@@ -1,42 +1,448 @@
-### Hello everybody, my name is Somak 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HEADER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="320" />
+<div align="center">
 
-## I'm a Student and hence, always learning new stuff...<br>Slowly but Steadily.
+# `Hi, I'm Somak Poddar 👋`
 
-- 🔭 I’m currently working on my very own personalized website.
-- 🌱 I’m currently learning Web Dev.
-- 🤔 I’m looking for help with learning new coding languages and development environments.
-- 💬 Ask me whatever you want :)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play guitar.
+### M.Tech CSE @ IIT Kharagpur · Systems · AI/ML · Research
 
-### Why don't you talk with me? I don't talk much so you gotta start tho :D
-<a href="https://www.youtube.com/channel/UCURsUmE4SN1wknazHfmWZ5A" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/YouTube.svg" alt="YouTube" height="35" width="50" /></a>
-<a href="https://www.linkedin.com/in/somak-poddar-4961281b7" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/linkedin.svg" alt="Linkedin" height="41" width="41" /></a>
-<a href="https://www.somakpoddar@gmail.com" target="blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Gmail.svg" alt="Gmail" height="45" width="45" /></a>
+**Building systems. Exploring intelligent software. Researching computational decision-making.**
 
-### Yes I know terminals:
-<a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/win.png" alt="Windows" width="50" height="50"/> </a>
-<a href="https://www.debian.org/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/debian.png" alt="Debian" width="50" height="50"/></a><a href="https://archlinux.org/" target="_blank"><img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/arch.png" alt="Arch Linux" width="50" height="50"/> </a>
+<br/>
 
-### Languages and Tools I have worked with:
-<a href="https://html.spec.whatwg.org/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/html.png" alt="HTML" width="50" height="50"/> </a>
-<a href="https://java.com/en/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/java-seeklogo.com.svg" alt="Java" width="50" height="50"/> </a>
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/C.svg" alt="C" width="46" height="46"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/C%23.svg" alt="C#" width="46" height="46"/> </a>
-<a href="https://www.python.org" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Python.svg" alt="Python" width="43" height="43"/> </a>
-<a href="https://dart.dev" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/dart-seeklogo.com.svg" alt="Dart" width="42" height="42"/> </a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/css.png" alt="CSS" width="37" height="50"/> </a>
-<a href="https://nodejs.org/en" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/node.png" alt="node.js" width="100" height="55"/> </a>
-<a href="https://atom.io" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/atom-seeklogo.com.svg" alt="Atom" width="43" height="43"/> </a>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Adobe_Photoshop_CC.svg" alt="Photoshop CC" width="45" height="45"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/ai.png" alt="Illustrator" width="47" height="47"/> </a>
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/ae.png" alt="After Effects" width="55" height="55"/> </a>
-<a href="https://visualstudio.microsoft.com" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Visual_Studio.svg" alt="Visual Studio" width="43" height="43"/> </a>
-<a href="https://unity.com" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/unity-seeklogo.com.svg" alt="Unity" width="48" height="48"/> </a>
-### Profiles on other platforms:
-<a href="https://stackoverflow.com/users/12273890/firedrop6000" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Stack_Overflow.svg" alt="Stack Overflow" width="50" height="50"/> </a>
-<a href="https://pratikg.itch.io" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/itchio.svg" alt="itch.io" width="45" height="45"/> </a>
-<a href="https://account.xbox.com/en-in/Profile?xr=mebarnav&rtc=1" target="_blank"> <img hspace ="20" align="center" src="https://github.com/FireDrop6000/FireDrop6000/blob/main/Assets/Xbox.svg" alt="itch.io" width="45" height="45"/> </a>
+<a href="https://github.com/Somak-2001">
+  <img src="https://img.shields.io/github/followers/Somak-2001?label=Followers&style=flat-square&logo=github" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/somak-poddar-4961281b7">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Somak-2001&style=flat-square&label=Profile+Views" />
 
+</div>
+
+---
+## 🖥️ `SYSTEM STATUS`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🎓
+**EDUCATION**
+
+`M.Tech CSE`
+
+**IIT Kharagpur**
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+**ENGINEERING**
+
+`Systems`  
+`Backend`  
+`Software Engineering`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI / ML**
+
+`NLP`  
+`Computer Vision`  
+`LLMs`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔬
+**RESEARCH**
+
+`Computational Social Choice`  
+`Participatory Budgeting`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+---
+
+# 📊 DEVELOPER DASHBOARD
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somak-2001&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Somak-2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somak-2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somak-2001&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 TECHNOLOGY MATRIX
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### ⚡ Languages
+
+```text
+C++          ████████████████████
+Python       █████████████████
+TypeScript   ███████████████
+JavaScript   █████████████
+C            █████████
+Java         ██████
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🏗️ Engineering
+
+```text
+Systems       ███████████████████
+Backend       █████████████████
+Databases     ███████████████
+Networking    █████████████
+Distributed   ████████████
+Frontend      ███████████
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🤖 AI / ML
+
+```text
+PyTorch       █████████████████
+NLP           ███████████████
+LLMs          ███████████████
+Computer      █████████████
+Vision        ████████████
+Adversarial   ███████████
+```
+
+</td>
+</tr>
+</table>
+
+> **Note:** The bars represent areas I actively work with or explore, not quantitative proficiency scores.
+
+---
+
+# 🚀 FEATURED BUILDS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## ⚡ FlexQL
+
+### `High-Performance Database Engine`
+
+A persistent client-server SQL-like database engine built in **C++17**.
+
+**Highlights**
+
+- 🚀 860K–1.25M inserts/sec
+- 🧵 Multithreaded batch insertion
+- ⚡ Zero-copy `SELECT`
+- 🗂️ Lazy hash indexing
+- 🔗 Hash join
+- 💾 WAL-based durability
+
+`C++17` `Databases` `Concurrency` `Networking`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Automatic Code Reviewer
+
+### `Multi-LLM Code Review`
+
+An automated code-review system combining multiple LLM providers.
+
+**Highlights**
+
+- Gemini
+- OpenAI
+- Anthropic
+- GitPython ingestion
+- Static analysis
+- Consensus-based deduplication
+
+`FastAPI` `React` `TypeScript` `LLMs`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📝 SyncText
+
+### `CRDT Collaborative Editor`
+
+Real-time collaborative text editor supporting concurrent users.
+
+**Highlights**
+
+- CRDT-based synchronization
+- Concurrent editing
+- POSIX IPC
+- Conflict-free updates
+
+`C` `CRDT` `POSIX` `Systems`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛡️ Adversarial ML
+
+### `Network Protocol Classifiers`
+
+Studied attacks and defenses against ML-based network classifiers.
+
+**Models**
+
+- Random Forest
+- SVM
+- CNN
+- LSTM
+
+**Attacks**
+
+- FGSM
+- PGD
+- Transfer attacks
+
+`PyTorch` `ML` `Security`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📰 Fake News Classification
+
+### `BERT / DistilBERT`
+
+NLP pipeline for fake-news classification.
+
+- TF-IDF baseline
+- BERT
+- DistilBERT
+- BERT encoder from scratch
+- Hugging Face deployment
+
+`Python` `PyTorch` `NLP` `Transformers`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📅 AI Meeting Scheduler
+
+### `LLM + Calendar Automation`
+
+AI-powered scheduling assistant integrating LLM reasoning with Google Calendar.
+
+`LangChain` `Gemini` `Google Calendar API`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔬 RESEARCH LAB
+
+### Computational Social Choice
+
+My current research interests lie at the intersection of:
+
+```text
+                    ┌─────────────────────┐
+                    │ Computational       │
+                    │   Social Choice     │
+                    └──────────┬──────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+      Participatory        Fairness          Preference
+       Budgeting          & Allocation        Aggregation
+             │
+             ▼
+      Algorithmic Decision
+          Making
+```
+
+### Current Areas
+
+| Area | Topics |
+|---|---|
+| 🗳️ Participatory Budgeting | GreedyCost, GreedyAV |
+| ⚖️ Fairness | Proportionality, project representation |
+| 🧮 Algorithms | Phragmén, Equal Shares |
+| 📊 Social Choice | Preference aggregation |
+| 🔍 Research | Algorithmic decision-making |
+
+---
+
+# 🧠 PROBLEM SOLVING
+
+### DSA Focus
+
+```text
+Arrays              ████████████████████
+Strings             ███████████████████
+Hashing             █████████████████
+Binary Search       ████████████████
+Two Pointers        ████████████████
+Sliding Window      ███████████████
+Stacks / Queues     ███████████████
+Trees               █████████████
+Graphs              █████████████
+Dynamic Programming ████████████
+Greedy              ████████████
+```
+
+### 🏆 GATE CS 2025
+
+<div align="center">
+
+# `AIR 215`
+
+**GATE Computer Science & Information Technology — 2025**
+
+</div>
+
+---
+
+# 🛠️ TOOLBOX
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,typescript,javascript,java" />
+
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" />
+
+### Data & ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,mongodb,mysql,postgresql" />
+
+### Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vscode" />
+
+</div>
+
+---
+
+# 📡 CURRENTLY EXPLORING
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  C++                 ████████████████████  ACTIVE   │
+│  System Design       ██████████████████    ACTIVE   │
+│  Distributed Systems █████████████████     ACTIVE   │
+│  AI / ML              ████████████████      ACTIVE   │
+│  LLMs                 ███████████████       ACTIVE   │
+│  DSA                  ███████████████████   ACTIVE   │
+│  Research             ████████████████████  ACTIVE   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📚 ENGINEERING INTERESTS
+
+```text
+        ┌───────────────┐
+        │   SOFTWARE    │
+        │  ENGINEERING  │
+        └───────┬───────┘
+                │
+     ┌──────────┼──────────┐
+     ▼          ▼          ▼
+  SYSTEMS    BACKEND      AI/ML
+     │          │          │
+     ▼          ▼          ▼
+  C++        APIs        LLMs
+  OS         DBs         NLP
+  Networks   Services    Vision
+  Concurrency Distributed Transformers
+```
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="https://github.com/Somak-2001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/somak-poddar-4961281b7">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:somakpoddar@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### `Build → Break → Understand → Improve → Repeat`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Somak-2001&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+</div>
