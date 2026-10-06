@@ -250,43 +250,6 @@ Greedy              ████████████
 
 ---
 
-# 📡 CURRENTLY EXPLORING
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  C++                 ████████████████████  ACTIVE   │
-│  System Design       ██████████████████    ACTIVE   │
-│  Distributed Systems █████████████████     ACTIVE   │
-│  AI / ML              ████████████████      ACTIVE   │
-│  LLMs                 ███████████████       ACTIVE   │
-│  DSA                  ███████████████████   ACTIVE   │
-│  Research             ████████████████████  ACTIVE   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-# 📚 ENGINEERING INTERESTS
-
-```text
-        ┌───────────────┐
-        │   SOFTWARE    │
-        │  ENGINEERING  │
-        └───────┬───────┘
-                │
-     ┌──────────┼──────────┐
-     ▼          ▼          ▼
-  SYSTEMS    BACKEND      AI/ML
-     │          │          │
-     ▼          ▼          ▼
-  C++        APIs        LLMs
-  OS         DBs         NLP
-  Networks   Services    Vision
-  Concurrency Distributed Transformers
-```
-
 ---
 
 # 🌐 CONNECT
